@@ -1,0 +1,141 @@
+
+.navigateur{
+  overflow: hidden;  position: fixed; background-color: white;
+  top: 0;
+  width: 100%; 
+}
+   
+
+ 
+.navigateur a:hover {
+  background-color: #00b39b;}
+
+
+
+
+.logoss{ width: 230px;height: 100px; display: flex;
+ 
+}
+.menu{display: flex;margin-top: -7%; background-color: white;
+   margin-left: 60%; list-style: none; justify-content: space-around;
+
+}
+
+.menu a{color: gray;text-decoration: none; 
+  background-color: white; word-spacing: 11px; font-family: Roboto,Arial,sans-serif;;
+
+}
+
+.partA{ display: block; flex-direction: column; text-align: center; font-size: xx-large;
+word-spacing: 13px; color: #00b39b; padding-top: 10%;
+}
+.para{ display: block; gap: 14px; display: flex; justify-content: space-between;
+  line-height: 17px; margin: 09%;  word-spacing: 9px ;
+
+} 
+.partieA{ display: flex; ; justify-items: inherit; flex-direction: row; margin-bottom: 11px;
+
+justify-content: space-around;margin-left: 11px;
+}
+.pvert{ display: block; justify-content: center; background-color: #00b39b; border-radius: 22px;
+  font-size: larger; width: 325px; height: 380px; color: white; margin-left: 01%;
+
+}
+.pbleu{display: block; justify-content: center; background-color: 3d83df; border-radius: 22px;
+  font-size: larger; width: 325px; height: 380px; color: white;
+}
+
+.pgris{display: block; justify-content:space-between; background-color: #1b2734; border-radius: 22px;
+  font-size: larger; width: 325px; height: 380px; color: white;
+
+}
+
+h3{color: #00b39b; font-size: large;font-family: Work Sans,Arial,sans-serif;padding-right: 10%;
+  
+
+}
+.leslogos{      display: flex; margin: 23px;
+   list-style: none;  
+
+}
+
+.zamy li{ display: inline-flex;justify-content: space-between;margin: 23px;
+
+}
+
+
+    .parb{ display: inline-flex; margin:22px ;padding: 44px;color: #00b39b;
+
+    }
+    .one{display: flex;flex-direction: column; color: #747474; 
+ }
+
+.catre{display: flex;justify-content: space-between;flex-wrap: wrap;
+
+align-items: baseline;
+}
+
+.one{
+  color: #00b39b; justify-content: space-between;
+}
+
+ .two{ display: flex;margin-top: 04%; justify-content: space-between;flex-wrap: wrap;
+  align-items: baseline;
+}
+
+
+.two h1{ font-size: medium;
+
+} 
+
+
+.leader{background-color: white;width: 225px;height: 230px; border-radius: 11px;
+margin: 2px;text-align: center;justify-content: space-between;
+}
+
+.rdv{background-color: white;width: 225px;height: 200px; margin: 10px;
+  border-radius: 11px;text-align: center;
+
+}
+.patient{background-color: white;width: 225px;height: 200px; margin: 1px;
+  border-radius: 11px;text-align: center; justify-content: space-between;
+  margin-left: 54%; margin-bottom: 15%;
+
+}
+.actifs{background-color: white;width: 225px;height: 200px; margin: 10px;
+  border-radius: 11px;text-align: center;justify-content: space-between;
+
+}
+
+.h1{
+  color: #C7EEE9;
+}
+.simple{color: #00b39b;text-align: center;justify-content: space-around; word-spacing: 10px;
+  font-family: Work Sans,Arial,sans-serif; font-weight: 300;margin-top: 5%; padding: 33px;
+
+
+}
+.botte1{ background-color: white; display: flex;display: block;
+  justify-content: space-around; margin-left: 05%;
+
+}
+
+.vars{ display: flex;justify-content: space-between; padding: 13px;
+ border-radius: 10%; margin:  1Opx; background-color: white;margin-bottom: 0;
+ margin-top: 0%; 
+}
+
+.vars a{text-decoration: none;list-style: none;color: #747474;margin-left: -1%;
+  
+  margin-right: 22px;
+}
+.avantf{
+  margin: 4%; padding: 52px; justify-content: space-between; text-align: center;
+}
+
+
+.fin{
+  display: block;justify-content: space-between; 
+  margin-right: 05%;
+}
+ 
